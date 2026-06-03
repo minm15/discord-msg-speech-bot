@@ -11,7 +11,6 @@ Discord bot that reads messages from one configured text channel and plays them 
 - Plays every valid message through a queue.
 - Skips URLs and emoji.
 - Converts mentions to display names.
-- Truncates long messages with `以下省略`.
 - Retries failed TTS requests.
 - Supports `/status`, `/skip`, `/clear`, and `/leave`.
 
