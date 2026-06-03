@@ -1,0 +1,10 @@
+{
+  "guildId": "your_discord_server_id",
+  "textChannelId": "text_channel_to_listen_to",
+  "adminUserIds": ["admin_user_id"],
+  "allowedUserIds": [],
+  "maxMessageLength": 200,
+  "ttsRetryCount": 2,
+  "ttsVoice": "zh-TW-HsiaoChenNeural",
+  "ttsLanguage": "zh-TW"
+}
